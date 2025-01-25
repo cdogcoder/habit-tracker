@@ -1,1 +1,3 @@
 ## habit-tracker
+
+Hey everyone! This is going to be my first independent project (hopefully) outside of Odin Project, where I delve into some other technologies that I used to used when I was at Headstarter. I will be creating a habit tracker using technologies like React.js, Next.js, MaterialUI (maybe?), Firebase Firestore, Google Gemini API (maybe?), and deploying through Vercel. I have never made an application like this ON MY OWN with no one to hold my hand ever, but I would love to see how this goes. With that being said, any media that I use in this project that is not mine will be credited just below this text, please please please go show all the creators some love! Anyways, thank you for viewing this repo and I hope you like the project.
